@@ -18,7 +18,7 @@ author_profile: true
 发表论文
 ======
 1. **Ma Gang**, Chen Haofeng, Wang Peng, Dong Shuai, Wang Xiaojie*, A two-electrode frequency-scan system for gesture recognition[J]. **_Mechatronics_**, 2023, 94: 103039.
-2. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang*** and Wang Xiaojie*, A skin-like hydrogel for distributed force sensing using an electrical impedance tomograph y-based pseudo-array method[J]. ACS Applied Electronic Materials, 2023.
+2. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang*** and Wang Xiaojie*, A skin-like hydrogel for distributed force sensing using an electrical impedance tomograph y-based pseudo-array method[J]. **_ACS Applied Electronic Materials_**, 2023.
 3. **Ma Gang;** Chen Haofeng; Wang Peng, and Wang Xiaojie*, Multi-frame constrained block sparse Bayesian learning for flexible tactile sensing using electrical impedance tomography[J]. **_IEEE Transactions on Computational Imaging_**, 2022, 8: 438-448.
 4. Chen Haofeng, Yang Xuanxuan, Wang Peng, Geng Jialu, **Ma Gang*** and Wang Xiaojie*, A large-area flexible tactile sensor for multi-touch and force detection using electrical impedance tomography[J]. **_IEEE Sensors Journal_**, 2022, 22(7): 7119-7129.
 5. **Ma Gang**, Hao Zhiliang, Wu Xuan and Wang Xiaojie*, An Optimal Electrical Impedance Tomography Drive Pattern for Human-Computer Interaction Applications[J], **_IEEE Transactions on Biomedical Circuits and Systems_**, 2020, 14(3): 402-411.
