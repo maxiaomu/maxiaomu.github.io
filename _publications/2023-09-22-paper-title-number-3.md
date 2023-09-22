@@ -1,4 +1,3 @@
-# number 1
 ---
 title: "Multi-frame Constrained Block Sparse Bayesian learning for Flexible Tactile Sensing using Electrical Impedance Tomography"
 collection: publications
