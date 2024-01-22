@@ -17,6 +17,7 @@ author_profile: true
 
 期刊论文
 ======
+1. Haofeng Chen, Xuanxuan Yang, **Gang Ma**, Xiaojie Wang, Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation. **IEEE Robotics and Automation Letters**,2024
 1. **Ma Gang**, Chen Haofeng, Wang Peng, Dong Shuai, Wang Xiaojie*, A two-electrode frequency-scan system for gesture recognition[J]. **_Mechatronics_**, 2023, 94: 103039.
 2. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang*** and Wang Xiaojie*, A skin-like hydrogel for distributed force sensing using an electrical impedance tomograph y-based pseudo-array method[J]. **_ACS Applied Electronic Materials_**, 2023.
 3. **Ma Gang;** Chen Haofeng; Wang Peng, and Wang Xiaojie*, Multi-frame constrained block sparse Bayesian learning for flexible tactile sensing using electrical impedance tomography[J]. **_IEEE Transactions on Computational Imaging_**, 2022, 8: 438-448.
