@@ -17,25 +17,25 @@ author_profile: true
 
 期刊论文
 ======
-1. Cao Chenhao, **Ma Gang***, Chen Zelin, Ouyang Yiming, Jin Hu*, Zhang Shiwu, A High-Precision Dynamic Movement Recognition Algorithm Using Multimodal Biological Signals for Human-Machine Interaction[J]. **_Advanced Intelligent Systems_**,2024(accepted)
-10. **Ma Gang**, Chen Haofeng, Dong Shuai*, Wang Xiaojie, Zhang Shiwu*, PDCISTA-Net: Model-driven deep learning reconstruction network for electrical impedance tomography-based tactile sensing[J]. **_IEEE Transactions on Industrial Informatics_**,2024(accepted)
-9. Haofeng Chen, Xuanxuan Yang, **Ma Gang*** and Xiaojie Wang*, Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation[J]. **_IEEE Robotics and Automation Letters_**,2024
-8. **Ma Gang**, Chen Haofeng, Wang Peng, Dong Shuai, Wang Xiaojie*, A two-electrode frequency-scan system for gesture recognition[J]. **_Mechatronics_**, 2023, 94: 103039.
-7. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang*** and Wang Xiaojie*, A skin-like hydrogel for distributed force sensing using an electrical impedance tomograph y-based pseudo-array method[J]. **_ACS Applied Electronic Materials_**, 2023.
-6. **Ma Gang**, Chen Haofeng, Wang Peng, and Wang Xiaojie*, Multi-frame constrained block sparse Bayesian learning for flexible tactile sensing using electrical impedance tomography[J]. **_IEEE Transactions on Computational Imaging_**, 2022, 8: 438-448.
-5. Chen Haofeng, Yang Xuanxuan, Wang Peng, Geng Jialu, **Ma Gang*** and Wang Xiaojie*, A large-area flexible tactile sensor for multi-touch and force detection using electrical impedance tomography[J]. **_IEEE Sensors Journal_**, 2022, 22(7): 7119-7129.
-4. **Ma Gang**, Hao Zhiliang, Wu Xuan and Wang Xiaojie*, An optimal electrical impedance tomography drive pattern for human-computer interaction applications[J], **_IEEE Transactions on Biomedical Circuits and Systems_**, 2020, 14(3): 402-411.
+1. Cao Chenhao, **Ma Gang**\*, Chen Zelin, Ouyang Yiming, Jin Hu\*, Zhang Shiwu, A High-Precision Dynamic Movement Recognition Algorithm Using Multimodal Biological Signals for Human-Machine Interaction[J]. **_Advanced Intelligent Systems_**,2024(accepted)
+10. **Ma Gang**, Chen Haofeng, Dong Shuai*, Wang Xiaojie, Zhang Shiwu\*, PDCISTA-Net: Model-driven deep learning reconstruction network for electrical impedance tomography-based tactile sensing[J]. **_IEEE Transactions on Industrial Informatics_**,2024(accepted)
+9. Haofeng Chen, Xuanxuan Yang, **Ma Gang**\* and Xiaojie Wang\*, Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation[J]. **_IEEE Robotics and Automation Letters_**,2024
+8. **Ma Gang**, Chen Haofeng, Wang Peng, Dong Shuai, Wang Xiaojie\*, A two-electrode frequency-scan system for gesture recognition[J]. **_Mechatronics_**, 2023, 94: 103039.
+7. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang**\* and Wang Xiaojie\*, A skin-like hydrogel for distributed force sensing using an electrical impedance tomograph y-based pseudo-array method[J]. **_ACS Applied Electronic Materials_**, 2023.
+6. **Ma Gang**, Chen Haofeng, Wang Peng, and Wang Xiaojie\*, Multi-frame constrained block sparse Bayesian learning for flexible tactile sensing using electrical impedance tomography[J]. **_IEEE Transactions on Computational Imaging_**, 2022, 8: 438-448.
+5. Chen Haofeng, Yang Xuanxuan, Wang Peng, Geng Jialu, **Ma Gang**\* and Wang Xiaojie\*, A large-area flexible tactile sensor for multi-touch and force detection using electrical impedance tomography[J]. **_IEEE Sensors Journal_**, 2022, 22(7): 7119-7129.
+4. **Ma Gang**, Hao Zhiliang, Wu Xuan and Wang Xiaojie\*, An optimal electrical impedance tomography drive pattern for human-computer interaction applications[J], **_IEEE Transactions on Biomedical Circuits and Systems_**, 2020, 14(3): 402-411.
 3. Zhou Xiangbo, Shu Jian, Jin Hu, Ren Hongtai, **Ma Gang**, Gong Ning, Ge Du-an, Shi Juan, Tang Shi-Yang, Yun Guolin,Variable stiffness wires based on magnetorheological liquid metals[J].**_International Journal of Smart and Nano Materials_**. 2022, 13(2): 232-243.
-2. Chen Haofeng, **Ma Gang**, Wang Peng, and Wang Xiaojie*, A bio-impedance analysis method based on human hand anatomy for hand gesture recognition[J], **_IEEE Transactions on Instrumentation and Measurement_**, 2021, 70(70): 0-4007110.
+2. Chen Haofeng, **Ma Gang**, Wang Peng, and Wang Xiaojie\*, A bio-impedance analysis method based on human hand anatomy for hand gesture recognition[J], **_IEEE Transactions on Instrumentation and Measurement_**, 2021, 70(70): 0-4007110.
 1. 郝志良,**马刚**,董帅,王彩萍,王晓杰.基于机器学习的柔性触觉传感器设计[J].传感技术学报,2019,32(03):346-350.
 
 会议论文
 ======
-1. Xu Gengchen, Yang Xuanxuan, Chen Haofeng,  **Ma Gang***, and Wang Xiaojie*.Pseudo-Domain Adversarial Networks with Electrical Impedance Tomography for Electrode Offset Error. 2024 IROS, (accepted)
-5. Chen Haofeng, Yang Xuanxuan, **Ma Gang***, and Wang Xiaojie*. Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN，2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024: 3311-3317.
+1. Xu Gengchen, Yang Xuanxuan, Chen Haofeng,  **Ma Gang**\*, and Wang Xiaojie*.Pseudo-Domain Adversarial Networks with Electrical Impedance Tomography for Electrode Offset Error. 2024 IROS, (accepted)
+5. Chen Haofeng, Yang Xuanxuan, **Ma Gang**\*, and Wang Xiaojie*. Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN，2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024: 3311-3317.
 4. **Ma Gang**, Hao Zhiliang, Wu Xuan, and Wang Xiaojie*, An Electrical Impedance Tomography Drive Pattern for Fast and Accurate Gesture Recognition With Less Electrodes[C], ASME Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS), American Society of Mechanical Engineers, Louisville, KY, USA 2019, 59131, V001T08A001.
-3. Yang Xuanxuan, Chen Haofeng, **Ma Gang** and Wang Xiaojie*, Real-time Monitoring Multi-phase Flow using Electrical Impedance Tomography[C]//2022 IEEE International Conference on Sensing, Diagnostics, Prognostics, and Control (SDPC). IEEE, 2022: 306-311.
-2. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang** and Wang Xiaojie*, A Convolutional Neural Network Based Electrical Impedance Tomography Method for Skin-like Hydrogel Sensing[C]//2022 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2022: 178-183.
+3. Yang Xuanxuan, Chen Haofeng, **Ma Gang** and Wang Xiaojie\*, Real-time Monitoring Multi-phase Flow using Electrical Impedance Tomography[C]//2022 IEEE International Conference on Sensing, Diagnostics, Prognostics, and Control (SDPC). IEEE, 2022: 306-311.
+2. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang** and Wang Xiaojie\*, A Convolutional Neural Network Based Electrical Impedance Tomography Method for Skin-like Hydrogel Sensing[C]//2022 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2022: 178-183.
 1. Peng Wang, Haofeng Chen, **Gang Ma**, Rui Li, Xiaojie Wang.  Deep Learning Scheme PSPNet for Electrical Impedance Tomography[C]. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2021. SPIE, 2021, 11591: 223-230.
    
 专利
