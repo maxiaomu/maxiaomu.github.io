@@ -18,7 +18,7 @@ author_profile: true
 期刊论文
 ======
 1. Chenhao Cao, **Ma Gang***, Zelin Chen, Yiming Ouyang, Hu Jin*, Shiwu Zhang, A High-Precision Dynamic Movement Recognition Algorithm Using Multimodal Biological Signals for Human-Machine Interaction[J]. **_Advanced Intelligent Systems_**,2024(accepted)
-10. **Ma Gang**, Chen Haofeng, Dong Shuai*,  Wang Xiaojie, Zhang Shiwu*, PDCISTA-Net: Model-driven deep learning reconstruction network for electrical impedance tomography-based tactile sensing[J]. **_IEEE Transactions on Industrial Informatics_**,2024(accepted)
+10. **Ma Gang**, Chen Haofeng, Dong Shuai*, Wang Xiaojie, Zhang Shiwu*, PDCISTA-Net: Model-driven deep learning reconstruction network for electrical impedance tomography-based tactile sensing[J]. **_IEEE Transactions on Industrial Informatics_**,2024(accepted)
 9. Haofeng Chen, Xuanxuan Yang, **Ma Gang*** and Xiaojie Wang*, Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation[J]. **_IEEE Robotics and Automation Letters_**,2024
 8. **Ma Gang**, Chen Haofeng, Wang Peng, Dong Shuai, Wang Xiaojie*, A two-electrode frequency-scan system for gesture recognition[J]. **_Mechatronics_**, 2023, 94: 103039.
 7. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang*** and Wang Xiaojie*, A skin-like hydrogel for distributed force sensing using an electrical impedance tomograph y-based pseudo-array method[J]. **_ACS Applied Electronic Materials_**, 2023.
