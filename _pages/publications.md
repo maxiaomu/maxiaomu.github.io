@@ -17,8 +17,10 @@ author_profile: true
 
 期刊论文
 ======
+13. Xuanxuan Yang, Yangming Zhang, Haofeng Chen, **Ma Gang**\* and Xiaojie Wang\*, A Two-Stage Imaging Framework Combining CNN and Physics-Informed Neural Networks for Full-Inverse Tomography: A Case Study in Electrical Impedance Tomography (EIT)[J]. **_IEEE Signal Peocessing Letters_**, 2025(accepted).
+12. Xuanxuan Yang, Haofeng Chen, Gengchen Xu, **Ma Gang**\* and Xiaojie Wang\*, Enhancing Gas-Liquid Two-Phase Stratified Flow Imaging with EIGEN-NET: A Fusion of Deep Learning and Measurement Matrices[J]. **_Measurement Science and Technology_**, 2025, 36, 035903.
 11. Cao Chenhao, **Ma Gang**\*, Chen Zelin, Ouyang Yiming, Jin Hu\*, Zhang Shiwu, A High-Precision Dynamic Movement Recognition Algorithm Using Multimodal Biological Signals for Human-Machine Interaction[J]. **_Advanced Intelligent Systems_**,2024: 2400483.
-10. **Ma Gang**, Chen Haofeng, Dong Shuai*, Wang Xiaojie, Zhang Shiwu\*, PDCISTA-Net: Model-driven deep learning reconstruction network for electrical impedance tomography-based tactile sensing[J]. **_IEEE Transactions on Industrial Informatics_**,2024.
+10. **Ma Gang**, Chen Haofeng, Dong Shuai*, Wang Xiaojie, Zhang Shiwu\*, PDCISTA-Net: Model-driven deep learning reconstruction network for electrical impedance tomography-based tactile sensing[J]. **_IEEE Transactions on Industrial Informatics_**,2024, 21(1): 633-642.
 9. Haofeng Chen, Xuanxuan Yang, **Ma Gang**\* and Xiaojie Wang\*, Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation[J]. **_IEEE Robotics and Automation Letters_**,2024
 8. **Ma Gang**, Chen Haofeng, Wang Peng, Dong Shuai, Wang Xiaojie\*, A two-electrode frequency-scan system for gesture recognition[J]. **_Mechatronics_**, 2023, 94: 103039.
 7. Chen Haofeng, Yang Xuanxuan, Geng Jialu, **Ma Gang**\* and Wang Xiaojie\*, A skin-like hydrogel for distributed force sensing using an electrical impedance tomography-based pseudo-array method[J]. **_ACS Applied Electronic Materials_**, 2023, 5(3): 1451-1460.
@@ -40,7 +42,8 @@ author_profile: true
    
 专利
 ======
-1. 张世武,张志宸,**马刚**,等.镜面物体的三维重建方法、装置、设备和存储介质[P].安徽省:CN202410323261.0,2024-06-14.
+7. 张世武;朱欣怡;董帅;**马刚**. 基于液态金属复合材料的柔性压力传感器及其制备方法[P].安徽省:CN118794576B,2025-02-14.
+6. 张世武,张志宸,**马刚**,等.镜面物体的三维重建方法、装置、设备和存储介质[P].安徽省:CN202410323261.0,2024-06-14.
 5. 张世武,金虎,曹辰昊,**马刚**.动态动作识别方法、装置、设备和存储介质[P].安徽省:CN202311498828.X,2024-03-29.
 4. 陈皓枫,杨轩轩,**马刚**,王晓杰,耿加露.一种低成本且便携式的电阻抗成像电路[p].安徽：CN218412711U,2023-01-31.
 3. 王晓杰,王玉成,**马刚**,陈皓枫,王鹏,曹洪新,赵娜娜. 一种融合生物电阻抗信息和肌电信息的手势识别系统[P]. 安徽：CN111553307B,2023-03-24.
