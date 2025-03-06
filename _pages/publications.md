@@ -17,6 +17,7 @@ author_profile: true
 
 期刊论文
 ======
+14. Shuai Dong\#, **Gang Ma**\#, Zhaowan Xiong, Du-An Ge, Yipu Guo, Weihua Li\*, and Shiwu Zhang\*, Liquid metal reversible contact behavior enabled flexible tactile sensor with high sensitivity and wide detection range[J]. **_Advanced Intelligent Systems_**,2025,(accepted).
 13. Xuanxuan Yang, Yangming Zhang, Haofeng Chen, **Ma Gang**\* and Xiaojie Wang\*, A Two-Stage Imaging Framework Combining CNN and Physics-Informed Neural Networks for Full-Inverse Tomography: A Case Study in Electrical Impedance Tomography (EIT)[J]. **_IEEE Signal Peocessing Letters_**, 2025.DOI:10.1109/LSP.2025.3545306
 12. Xuanxuan Yang, Haofeng Chen, Gengchen Xu, **Ma Gang**\* and Xiaojie Wang\*, Enhancing Gas-Liquid Two-Phase Stratified Flow Imaging with EIGEN-NET: A Fusion of Deep Learning and Measurement Matrices[J]. **_Measurement Science and Technology_**, 2025, 36, 035903.
 11. Cao Chenhao, **Ma Gang**\*, Chen Zelin, Ouyang Yiming, Jin Hu\*, Zhang Shiwu, A High-Precision Dynamic Movement Recognition Algorithm Using Multimodal Biological Signals for Human-Machine Interaction[J]. **_Advanced Intelligent Systems_**,2024: 2400483.
