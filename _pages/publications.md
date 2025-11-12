@@ -17,8 +17,8 @@ author_profile: true
 
 期刊论文
 ======
-12. Wang Peng, Cheng Longqi, Liu Jiamei, Wang Haibin Wang, Wu Decheng Wu, **Ma Gang**\*, **Ma Wanjing**\*，**_Neurocomputing_**,2025, https://doi.org/10.1016/j.neucom.2025.132000
-11. Dong Shuai\#, **Ma Gang**\#, Xiong Zhaowan,Ge Duan, Guo Yipu, Li Weihua\*, and Zhang Shiwu\*, Liquid metal reversible contacts for flexible tactile sensor with high sensitivity and wide detection range[J]. **_Advanced Intelligent Systems_**, 2025: 2401019.
+12. Wang Peng, Cheng Longqi, Liu Jiamei, Wang Haibin, Wu Decheng, **Ma Gang**\*, **Ma Wanjing**\*，**_Neurocomputing_**, 2025:132000.
+11. Dong Shuai\#, **Ma Gang**\#, Xiong Zhaowan,Ge Duan, Guo Yipu, Li Weihua\*, and Zhang Shiwu\*, Liquid metal reversible contacts for flexible tactile sensor with high sensitivity and wide detection range[J]. **_Advanced Intelligent Systems_**, 2025:2401019.
 10. Yang Xuanxuan, Zhang Yangming, Chen Haofeng, **Ma Gang**\* and Wang Xiaojie\*, A Two-Stage Imaging Framework Combining CNN and Physics-Informed Neural Networks for Full-Inverse Tomography: A Case Study in Electrical Impedance Tomography (EIT)[J]. **_IEEE Signal Peocessing Letters_**, 2025.
 9. Yang Xuanxuan,Chen Haofeng, Xu Gengchen Xu, **Ma Gang**\* and Wang Xiaojie\*, Enhancing Gas-Liquid Two-Phase Stratified Flow Imaging with EIGEN-NET: A Fusion of Deep Learning and Measurement Matrices[J]. **_Measurement Science and Technology_**, 2025, 36, 035903.
 8. Cao Chenhao, **Ma Gang**\*, Chen Zelin, Ouyang Yiming, Jin Hu\*, Zhang Shiwu, A High-Precision Dynamic Movement Recognition Algorithm Using Multimodal Biological Signals for Human-Machine Interaction[J]. **_Advanced Intelligent Systems_**, 2025, 7(3): 2400483.
@@ -35,7 +35,7 @@ author_profile: true
 
 会议论文
 ======
-4. Zhang Qilin, Chen Haofeng, Yang Xuanxuan,  **Ma Gang**\*, and Wang Xiaojie*, Enhancing Tactile Sensing in Robotics Using Null-Space Diffusion Model with EIT-based Sensors[C]//2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2025,(Accepted)
+4. Zhang Qilin, Chen Haofeng, Yang Xuanxuan,  **Ma Gang**\*, and Wang Xiaojie*, Enhancing Tactile Sensing in Robotics Using Null-Space Diffusion Model with EIT-based Sensors[C]//2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2025.
 3. Xu Gengchen, Yang Xuanxuan, Chen Haofeng,  **Ma Gang**\*, and Wang Xiaojie*, Pseudo-Domain Adversarial Networks with Electrical Impedance Tomography for Electrode Offset Error[C]//2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2024: 7020-7026.
 2. Chen Haofeng, Yang Xuanxuan, **Ma Gang**\*, and Wang Xiaojie*, Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN[C]//2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024: 3311-3317.
 1. **Ma Gang**, Hao Zhiliang, Wu Xuan, and Wang Xiaojie*, An Electrical Impedance Tomography Drive Pattern for Fast and Accurate Gesture Recognition With Less Electrodes[C], ASME Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS), American Society of Mechanical Engineers, Louisville, KY, USA 2019, 59131, V001T08A001.
