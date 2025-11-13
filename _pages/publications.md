@@ -17,7 +17,7 @@ author_profile: true
 
 期刊论文
 ======
-12. Wang Peng, Cheng Longqi, Liu Jiamei, Wang Haibin, Wu Decheng, **Ma Gang**\*, **Ma Wanjing**\*，**_Neurocomputing_**, 2025:132000.
+12. Wang Peng, Cheng Longqi, Liu Jiamei, Wang Haibin, Wu Decheng, **Ma Gang**\*, Ma Wanjing\*，**_Neurocomputing_**, 2025:132000.
 11. Dong Shuai\#, **Ma Gang**\#, Xiong Zhaowan,Ge Duan, Guo Yipu, Li Weihua\*, and Zhang Shiwu\*, Liquid metal reversible contacts for flexible tactile sensor with high sensitivity and wide detection range[J]. **_Advanced Intelligent Systems_**, 2025:2401019.
 10. Yang Xuanxuan, Zhang Yangming, Chen Haofeng, **Ma Gang**\* and Wang Xiaojie\*, A Two-Stage Imaging Framework Combining CNN and Physics-Informed Neural Networks for Full-Inverse Tomography: A Case Study in Electrical Impedance Tomography (EIT)[J]. **_IEEE Signal Peocessing Letters_**, 2025.
 9. Yang Xuanxuan,Chen Haofeng, Xu Gengchen Xu, **Ma Gang**\* and Wang Xiaojie\*, Enhancing Gas-Liquid Two-Phase Stratified Flow Imaging with EIGEN-NET: A Fusion of Deep Learning and Measurement Matrices[J]. **_Measurement Science and Technology_**, 2025, 36, 035903.
