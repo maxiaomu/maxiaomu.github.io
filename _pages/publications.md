@@ -17,8 +17,9 @@ author_profile: true
 
 期刊论文
 ======
+16. Wang Peng, Liu Jiamei, Chen Haofeng, Leng Jiaxu, **Ma Gang**\*, Ma Wanjing\*，Revisiting Multi-Scale Feature Representation and Fusion for UAV-Based Road Distress Detection[J]. **_Neurocomputing_**, 2026:133331.
 15. **Ma Gang**\#, Pan Xiao\#, Rong Huarui, Ge Du-An, Dong Shuai\*, Zhang Shiwu\*，Liquid Metal-Driven Pulsed Jet Propulsion in a Squid-Inspired Robotic Fish[J]. **_Journal of Bionic Engineering_**, 2026: 1-11.
-14. Sun Mingyuan\#, Ge Du-An Ge\#, **Ma Gang**\#, Wang Erlong, Chen Xuanhan, Dong Shuai\*, Li Xiangpeng\*, Zhang Shiwu\*, A Liquid Metal Film-Based Passive Tactile Sensor for Robotic Perception[J]. **_SCIENCE CHINA Technological Sciences_**, 2025. https://doi.org/10.1007/s11431-025-3177-6
+14. Sun Mingyuan\#, Ge Du-An\#, **Ma Gang**\#, Wang Erlong, Chen Xuanhan, Dong Shuai\*, Li Xiangpeng\*, Zhang Shiwu\*, A Liquid Metal Film-Based Passive Tactile Sensor for Robotic Perception[J]. **_SCIENCE CHINA Technological Sciences_**, 2025. https://www.sciengine.com/SCTS/doi/10.1007/s11431-025-3177-6.
 13. Yang Xuanxuan, Zhang Yangming, Chen Haofeng, **Ma Gang**\* and Wang Xiaojie\*, A Physics-Embedded Dual-Learning Imaging Framework for Electrical Impedance Tomography[J]. **_Neural Networks_**,2025,108464.
 12. Wang Peng, Cheng Longqi, Liu Jiamei, Wang Haibin, Wu Decheng, **Ma Gang**\*, Ma Wanjing\*，YOLO-RD: Road Defect Detection with Context-Aware Attention and Balanced Loss[J]. **_Neurocomputing_**, 2025:132000.
 11. Dong Shuai\#, **Ma Gang**\#, Xiong Zhaowan,Ge Duan, Guo Yipu, Li Weihua\*, and Zhang Shiwu\*, Liquid metal reversible contacts for flexible tactile sensor with high sensitivity and wide detection range[J]. **_Advanced Intelligent Systems_**, 2025:2401019.
