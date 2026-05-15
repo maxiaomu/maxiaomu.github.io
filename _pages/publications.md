@@ -17,9 +17,10 @@ author_profile: true
 
 期刊论文
 ======
+17.  Yang Xuanxuan, Ge Mingyu, Chen Haofeng\*, **Ma Gang**\* and Wang Xiaojie, Virtual internal electrode–enhanced electrical impedance tomography for flexible tactile sensing[J]. **_Sensors and Actuators A: Physical_**, 2026, 117851.
 16. Wang Peng, Liu Jiamei, Chen Haofeng, Leng Jiaxu, **Ma Gang**\*, Ma Wanjing\*，Revisiting Multi-Scale Feature Representation and Fusion for UAV-Based Road Distress Detection[J]. **_Neurocomputing_**, 2026:133331.
 15. **Ma Gang**\#, Pan Xiao\#, Rong Huarui, Ge Du-An, Dong Shuai\*, Zhang Shiwu\*，Liquid Metal-Driven Pulsed Jet Propulsion in a Squid-Inspired Robotic Fish[J]. **_Journal of Bionic Engineering_**, 2026: 1-11.
-14. Sun Mingyuan\#, Ge Du-An\#, **Ma Gang**\#, Wang Erlong, Chen Xuanhan, Dong Shuai\*, Li Xiangpeng\*, Zhang Shiwu\*, A Liquid Metal Film-Based Passive Tactile Sensor for Robotic Perception[J]. **_SCIENCE CHINA Technological Sciences_**, 2025. https://www.sciengine.com/SCTS/doi/10.1007/s11431-025-3177-6.
+14. Sun Mingyuan\#, Ge Du-An\#, **Ma Gang**\#, Wang Erlong, Chen Xuanhan, Dong Shuai\*, Li Xiangpeng\*, Zhang Shiwu\*, A Liquid Metal Film-Based Passive Tactile Sensor for Robotic Perception[J]. **_SCIENCE CHINA Technological Sciences_**, 2026, 69 (5), 1500105
 13. Yang Xuanxuan, Zhang Yangming, Chen Haofeng, **Ma Gang**\* and Wang Xiaojie\*, A Physics-Embedded Dual-Learning Imaging Framework for Electrical Impedance Tomography[J]. **_Neural Networks_**,2025,108464.
 12. Wang Peng, Cheng Longqi, Liu Jiamei, Wang Haibin, Wu Decheng, **Ma Gang**\*, Ma Wanjing\*，YOLO-RD: Road Defect Detection with Context-Aware Attention and Balanced Loss[J]. **_Neurocomputing_**, 2025:132000.
 11. Dong Shuai\#, **Ma Gang**\#, Xiong Zhaowan,Ge Duan, Guo Yipu, Li Weihua\*, and Zhang Shiwu\*, Liquid metal reversible contacts for flexible tactile sensor with high sensitivity and wide detection range[J]. **_Advanced Intelligent Systems_**, 2025:2401019.
@@ -33,6 +34,7 @@ author_profile: true
 3. Chen Haofeng, Yang Xuanxuan, Wang Peng, Geng Jialu, **Ma Gang**\* and Wang Xiaojie\*, A large-area flexible tactile sensor for multi-touch and force detection using electrical impedance tomography[J]. **_IEEE Sensors Journal_**, 2022, 22(7): 7119-7129.
 2. **Ma Gang**, Chen Haofeng, Wang Peng, and Wang Xiaojie\*, Multi-frame constrained block sparse Bayesian learning for flexible tactile sensing using electrical impedance tomography[J]. **_IEEE Transactions on Computational Imaging_**, 2022, 8: 438-448.
 1. **Ma Gang**, Hao Zhiliang, Wu Xuan and Wang Xiaojie\*, An optimal electrical impedance tomography drive pattern for human-computer interaction applications[J], **_IEEE Transactions on Biomedical Circuits and Systems_**, 2020, 14(3): 402-411.
+4. Erlong Wang, Mingyuan Sun, Du-An Ge, Shuai Dong, **Gang Ma**, Xiao Pan, Hongtai Ren, Yuewei Zhu, Hu Jin, Shi-Yang Tang, Xiangpeng Li, Weihua Li, Shiwu Zhang.Continuum tactile sensing via an amplified liquid metal interface[J]. **_Science Advances_**,2026, 12(18),  eaec3673.
 3. Xiangbo Zhou, Jian Shu, Hu Jin, Hongtai Ren, **Gang Ma**, Ning Gong, Du-an Ge, Juan Shi, Shi-Yang Tang, Guolin Yun,Variable stiffness wires based on magnetorheological liquid metals[J].**_International Journal of Smart and Nano Materials_**. 2022, 13(2): 232-243.
 2. Haofeng Chen, **Gang Ma**, Peng Wang, and Xiaojie Wang\*, A bio-impedance analysis method based on human hand anatomy for hand gesture recognition[J], **_IEEE Transactions on Instrumentation and Measurement_**, 2021, 70(70): 0-4007110.
 1. 郝志良,**马刚**,董帅,王彩萍,王晓杰.基于机器学习的柔性触觉传感器设计[J].传感技术学报,2019,32(03):346-350.
@@ -49,13 +51,12 @@ author_profile: true
    
 专利
 ======
-7. 张世武;余平安;**马刚**；董帅. 一种手势动作识别方法及系统[P].安徽省:CN120470423B,2025-10-03.
-6. 陈皓枫,杨轩轩,**马刚**,王晓杰,耿加露. 一种基于电阻抗技术结合触觉感知的轮椅控制方法[p].安徽：2025-02-18,2025-02-18.
-7. 张世武;朱欣怡;董帅;**马刚**. 基于液态金属复合材料的柔性压力传感器及其制备方法[P].安徽省:CN118794576B,2025-02-14.
-4. 张世武,张志宸,**马刚**,董帅. 镜面物体的三维重建方法、装置、设备和存储介质[P].安徽省:CN117934727B,2024-06-14.
-3. 张世武,金虎,曹辰昊,**马刚**. 动态动作识别方法、装置、设备和存储介质[P].安徽省:	CN117238037B,2024-03-29.
-2. 王晓杰,陈皓枫,杨轩轩,耿加露,**马刚**. 一种基于电阻抗成像的一体化触觉传感器的检测方法[p].安徽：CN114577238B,2023-05-16.
-1. 王晓杰,王玉成,**马刚**,陈皓枫,王鹏,曹洪新,赵娜娜. 一种融合生物电阻抗信息和肌电信息的手势识别系统[P]. 安徽：CN111553307B,2023-03-24.
+6. 张世武;余平安;**马刚**；董帅. 一种手势动作识别方法及系统[P].CN120470423B,2025-10-03.
+5. 张世武;朱欣怡;董帅;**马刚**. 基于液态金属复合材料的柔性压力传感器及其制备方法[P].CN118794576B,2025-02-14.
+4. 张世武,张志宸,**马刚**,董帅. 镜面物体的三维重建方法、装置、设备和存储介质[P].CN117934727B,2024-06-14.
+3. 张世武,金虎,曹辰昊,**马刚**. 动态动作识别方法、装置、设备和存储介质[P].CN117238037B,2024-03-29.
+2. 王晓杰,陈皓枫,杨轩轩,耿加露,**马刚**. 一种基于电阻抗成像的一体化触觉传感器的检测方法[p].CN114577238B,2023-05-16.
+1. 王晓杰,王玉成,**马刚**,陈皓枫,王鹏,曹洪新,赵娜娜. 一种融合生物电阻抗信息和肌电信息的手势识别系统[P]. CN111553307B,2023-03-24.
 
 参与项目
 ======
