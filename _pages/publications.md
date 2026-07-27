@@ -17,7 +17,8 @@ author_profile: true
 
 期刊论文
 ======
-17.  Yang Xuanxuan, Ge Mingyu, Chen Haofeng\*, **Ma Gang**\* and Wang Xiaojie, Virtual internal electrode–enhanced electrical impedance tomography for flexible tactile sensing[J]. **_Sensors and Actuators A: Physical_**, 2026, 117851.
+18. Yang Xuanxuan, Zhang Xiuyang, Chen Haofeng\*, **Ma Gang**\* and Wang Xiaojie, Physics-Driven Learning Framework for Tomographic Tactile Sensing[J]. **_IEEE Transactions on Haptics_**, 2026, 10.1109/TOH.2026.3714215
+17. Yang Xuanxuan, Ge Mingyu, Chen Haofeng\*, **Ma Gang**\* and Wang Xiaojie, Virtual internal electrode–enhanced electrical impedance tomography for flexible tactile sensing[J]. **_Sensors and Actuators A: Physical_**, 2026, 117851.
 16. Wang Peng, Liu Jiamei, Chen Haofeng, Leng Jiaxu, **Ma Gang**\*, Ma Wanjing\*，Revisiting Multi-Scale Feature Representation and Fusion for UAV-Based Road Distress Detection[J]. **_Neurocomputing_**, 2026:133331.
 15. **Ma Gang**\#, Pan Xiao\#, Rong Huarui, Ge Du-An, Dong Shuai\*, Zhang Shiwu\*，Liquid Metal-Driven Pulsed Jet Propulsion in a Squid-Inspired Robotic Fish[J]. **_Journal of Bionic Engineering_**, 2026: 1-11.
 14. Sun Mingyuan\#, Ge Du-An\#, **Ma Gang**\#, Wang Erlong, Chen Xuanhan, Dong Shuai\*, Li Xiangpeng\*, Zhang Shiwu\*, A Liquid Metal Film-Based Passive Tactile Sensor for Robotic Perception[J]. **_SCIENCE CHINA Technological Sciences_**, 2026, 69 (5), 1500105
